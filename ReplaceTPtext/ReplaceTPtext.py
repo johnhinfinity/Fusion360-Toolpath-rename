@@ -1,4 +1,4 @@
-# RenameToolpaths_ZPlaceholders_Q_SkipExisting.py
+# RenameToolpaths_ZPlaceholders.py
 # Renames every CAM operation to: "<Tool Description> | ZINC:? & ZABS:? | <Operation Type>"
 # Skips any op whose name already contains ZINC: or ZABS:
 
